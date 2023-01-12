@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8b1d71da0a2af4b9f8ee8fee70d4a1, type: 3}
+  m_Name: OpenDialouge
+  m_EditorClassIdentifier: 
+  dialougeName: TEXT
+  dialougeContents:
+  - "\u9019\u88E1\u662F\u54EA\u88E1?\u6211\u600E\u9EBC\u6703\u5728\u9019?"
+  - "\u6211\u4E0D\u662F\u5728\u56DE\u5BB6\u7684\u8DEF\u4E0A\u55CE?"
+  - "\u4E0D\u5C0D\uFF0C\u73FE\u5728\u91CD\u8981\u7684\u662F\u5982\u4F55\u96E2\u958B\uFF0C\u4F46\u9019\u88E1\u4E5F\u592A\u9ED1\u4E86..."
